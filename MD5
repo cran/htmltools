@@ -1,8 +1,8 @@
-a5d607216e4678d78e485d646200e8e9 *DESCRIPTION
+5a1e40d816858e63db5aafb6f082dd6d *DESCRIPTION
 691f06b13a7452793fd9fc1581346b88 *NAMESPACE
-fce432fdecccf1844ac73c0cd2411b1c *NEWS.md
+32ae701b95abd6ed389f72b3b8313009 *NEWS.md
 5f044fb2e9680b6c1625d182bdeda8d1 *R/colors.R
-4a39ff98c97207907fe80971470c2e31 *R/fill.R
+8aa66c36a0c428b1eaeaab7ae0238eb7 *R/fill.R
 41d3d5c49e5ebc09d3696abdb53682ce *R/html_dependency.R
 3264d8cfd71d9150f3b08b473a28847b *R/html_escape.R
 99ad091935c8c7290163a264a7163f6c *R/html_print.R
@@ -12,10 +12,10 @@ f21ae7b69cdd1eff6f1b67e84adc37fa *R/images.R
 f093a7c50e7ee932b50e9429549edf1e *R/selector.R
 5b5faeac9c5718857c41c856f84b3609 *R/staticimports.R
 f313557f25e51070e8e1e2a7ca02637c *R/tag_query.R
-af203d981e858f6c182314f2b5134a90 *R/tags.R
+84fb99038f5599ddf0523bd9c9ed5fba *R/tags.R
 8754e24109c264ad919c72f969223085 *R/template.R
 4d55ba4751614e631d3a0d5f54fb91e4 *R/utils.R
-b7fc32062337db04eb7ddcd8debcb076 *inst/fill/fill.css
+0c307b2ce7a3fa7f260a0451457c809f *inst/fill/fill.css
 66c25a9fbb39e38f9d00f70e388b51ca *man/HTML.Rd
 0f17d772c2a8b09646c35575510f58a9 *man/as.tags.Rd
 88755a18c0ce2033778d9209cdfcd58c *man/bindFillRole.Rd
@@ -55,7 +55,7 @@ a8b4b505f02377daaccef0066f8e7051 *man/singleton.Rd
 03558ea3689843ad60e5af74ce9713b8 *man/subtractDependencies.Rd
 1e4baacda4939aa34b4e0cff3e570375 *man/suppressDependencies.Rd
 4ce6f9bcee698e62ba04bd4d695b8903 *man/tagAddRenderHook.Rd
-f6b45a27ca5a524110d28041aa81a824 *man/tagAppendAttributes.Rd
+b588bd0eb452a44e4d228fde1fe67990 *man/tagAppendAttributes.Rd
 b450d680e9744c44714f98b700245df0 *man/tagAppendChild.Rd
 a492dd899372845a6159d2cd215bdcfe *man/tagFunction.Rd
 86e2e9555758a686710a160ca44b3583 *man/tagList.Rd
@@ -77,7 +77,7 @@ fe57ef256876fb7bf2d9e0d293af40ee *tests/testthat/helper-locale.R
 ce9c101bbebef449d432567b9a29e9f9 *tests/testthat/template-document.html
 c6cc88d0969658803fe2b87090f46c9e *tests/testthat/test-colors.R
 21f9cb771663db3b946d75ef7fd43c86 *tests/testthat/test-deps.r
-b6c0aca161771fa91e08a400d46838e8 *tests/testthat/test-fill.R
+b0eaee0845742888bccb11f95cdf7275 *tests/testthat/test-fill.R
 76e589e51de5fbb218c876eb67dcc6ef *tests/testthat/test-images.R
 01002f5157da1cdc6708d84a1c14e3f7 *tests/testthat/test-print.R
 00e215b63d00f05bc12717510fd3cfc2 *tests/testthat/test-selector.R
