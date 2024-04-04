@@ -1,13 +1,13 @@
-5a1e40d816858e63db5aafb6f082dd6d *DESCRIPTION
+d15296851c05567e9281703998b7d43f *DESCRIPTION
 691f06b13a7452793fd9fc1581346b88 *NAMESPACE
-32ae701b95abd6ed389f72b3b8313009 *NEWS.md
+8d653a48d4b13cd5bcda79d604bdc171 *NEWS.md
 5f044fb2e9680b6c1625d182bdeda8d1 *R/colors.R
 8aa66c36a0c428b1eaeaab7ae0238eb7 *R/fill.R
 41d3d5c49e5ebc09d3696abdb53682ce *R/html_dependency.R
 3264d8cfd71d9150f3b08b473a28847b *R/html_escape.R
 99ad091935c8c7290163a264a7163f6c *R/html_print.R
 2f07d7435562b3865ec234823b834bc7 *R/htmltools-package.R
-f21ae7b69cdd1eff6f1b67e84adc37fa *R/images.R
+3f94c4f4858f13cc7af9a59e758700e5 *R/images.R
 0bddcd4bb9b19a209d1078b9ee7ef5b1 *R/known_tags.R
 f093a7c50e7ee932b50e9429549edf1e *R/selector.R
 5b5faeac9c5718857c41c856f84b3609 *R/staticimports.R
@@ -21,7 +21,7 @@ f313557f25e51070e8e1e2a7ca02637c *R/tag_query.R
 88755a18c0ce2033778d9209cdfcd58c *man/bindFillRole.Rd
 ce6cec95e6f96f39a06724bb0c04c781 *man/browsable.Rd
 f4c60f8981bebc3eab34050a8f5a8d21 *man/builder.Rd
-0be213fe8864adc174fc412f16f49534 *man/capturePlot.Rd
+40689258c26497bc4cad5bde07b4666e *man/capturePlot.Rd
 f8a468bd5662dae651fd5320a00ce0f2 *man/copyDependencyToDir.Rd
 399fc5b9debe9b58ebd9e4d20767339e *man/css.Rd
 dc524c0301930e93a4efe84878ad37a7 *man/defaultPngDevice.Rd
@@ -43,7 +43,7 @@ b20713b9e3b5208cf1df9db9561b740e *man/include.Rd
 d5fe567bcd73afd46d8a6871cd8fa995 *man/knitr_methods.Rd
 a10d13a4b646e7d0caaaa95a7954f344 *man/makeDependencyRelative.Rd
 2d10f3203fc76c606392cc280124bf8c *man/parseCssColors.Rd
-8aab9fc5a264b8e4873e0c263e39f2aa *man/plotTag.Rd
+4bb1570e2d3870bf203e10fed8f19f27 *man/plotTag.Rd
 16159aa45a251fb364e5fd1fd144d1d7 *man/print.html.Rd
 7a2cffca91021e5c404498652430fcf0 *man/renderDependencies.Rd
 f701da695ed57753e86a13a2e7b60d9c *man/renderDocument.Rd
